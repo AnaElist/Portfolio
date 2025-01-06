@@ -47,8 +47,7 @@ FROM
   events as a 
 LEFT JOIN 
     devices as b ON a.DeviceID = b.DeviceID 
-LIMIT 
-  5 
+LIMIT 5 
 ```
 
 ### 2.
@@ -67,8 +66,7 @@ INNER JOIN
   checks as c ON c.UserID =  d.UserID
 GROUP BY iSource
 ORDER BY sell_count DESC
-LIMIT 
-  5 
+LIMIT 5 
 ```
 
 ### 3.
