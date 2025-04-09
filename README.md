@@ -24,9 +24,11 @@
 - Анализ активности студентов.
 - Оптимизация воронки продаж.
 - Вычисление ключевых метрик: ARPU, CR, вовлечённость студентов.
-#### 2.2. [User_activity_mobile_app_traffic.md](SQL/app_traffic)  
+#### 2.2. [SQL_test_task.md](SQL/Medical center)  
+ Medical center
+#### 2.3. [User_activity_mobile_app_traffic.md](SQL/app_traffic)  
 Анализ пользовательской активности в приложении. Основное внимание уделено работе с объединением таблиц (различными типами JOIN) и расчету метрик.
-#### 2.3. [Airbnb_Berlin](SQL/airbnb_Berlin_data_types)  
+#### 2.4. [Airbnb_Berlin](SQL/airbnb_Berlin_data_types)  
 Анализ данных о предложениях жилья в Берлине из базы Airbnb. Проект включает работу с различными типами данных и их преобразованием.
 
 
